@@ -1,0 +1,5 @@
+/docs/readme.txt 1792d025db3f387eda33a5d9bc2d722c
+/docs/sub/deep.txt 51c35575fcf26e9a6a80adad925eb69e
+/docs/empty_file d41d8cd98f00b204e9800998ecf8427e
+/keep.txt 1a317ebd918f2b4582dfbbaefff2578c
+/docs/big200k.bin 3cd15bff40ec76ce60498bd6a77f338d
