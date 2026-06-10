@@ -1,5 +1,9 @@
 # SlopFS
 
+> [!WARNING]
+> one shot claude fable 5 (high) attempt at a filesystem
+> do not use this
+
 A persistent, block-based filesystem in C11, stored in a single disk
 image file, with write-ahead journaling, a CLI shell, and a real-time
 ncurses inspector.
